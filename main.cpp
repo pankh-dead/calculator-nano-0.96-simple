@@ -4,7 +4,7 @@
   HARDWARE CONNECTIONS:
   ---------------------
   0.96" OLED Display (I2C):
-    VCC -> 5V
+    VCC -> try on 3.3v first, and if doesnt work switch to 5v
     GND -> GND
     SDA -> A4 (Nano)
     SCL -> A5 (Nano)
